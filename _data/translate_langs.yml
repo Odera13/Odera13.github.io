@@ -1,4 +1,4 @@
-# Translate languges
+# Translate languages
 # langs refer to https://cloud.google.com/translate/docs/languages
 
 - lang: en
@@ -28,7 +28,4 @@
 - lang: de
   img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
   text: Germany
-  
-- lang: ar
-  img: https://cdn.countryflags.com/thumbs/egypt/flag-400.png
-  text: Egypt
+
