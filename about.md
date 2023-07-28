@@ -13,4 +13,5 @@ With hands-on skills and a healthy bias toward quality more than quantity, I aim
 Even before you say a word, people already judge you with your online presence. A professional website and a well-responsive application will help you stand out. 
 
 ###Contact
+I look forward to hearing more from you. Shoot me an email @[enosodera](enoscarter@gmail.com)
 Follow me on LinkedIn [Enos Odera](https://www.linkedin.com/in/enos-odera-b2b-saas-copywriter/).
